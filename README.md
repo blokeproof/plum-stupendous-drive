@@ -1,2 +1,1 @@
-# plum-stupendous-drive
-Free Code Camp Quality Assurance and Testing with Chai
+# [Quality Assurance with Chai](https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-and-testing-with-chai/)
